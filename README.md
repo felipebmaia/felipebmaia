@@ -21,12 +21,14 @@ I´m Graduated in Business Administration and Co-Founder of Proteína da Terra.
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-Trello-007AC0?style=flat-square&logo=trello">
 <img src="https://img.shields.io/badge/-stackoverflow-grey?style=flat-square&logo=stackoverflow">
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=flat-square&logo=sublime-text&logoColor=white">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=slack&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://user-images.githubusercontent.com/95922808/180622345-b3741748-1f2f-4cd8-be29-295e1e7d1b4f.png" width="50px"/>
+
  
 </p>
 
