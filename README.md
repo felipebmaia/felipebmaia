@@ -13,6 +13,7 @@ I´m Graduated in Business Administration and Co-Founder of Proteína da Terra.
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img alt="Scikitlearn" src="https://user-images.githubusercontent.com/95922808/180621999-3d782b76-5f76-4761-96fa-3a4f1bacf749.png" width="55px" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
