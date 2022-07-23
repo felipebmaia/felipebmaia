@@ -15,7 +15,6 @@ I´m Graduated in Business Administration and Co-Founder of Proteína da Terra.
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
@@ -35,7 +34,7 @@ I´m Graduated in Business Administration and Co-Founder of Proteína da Terra.
 <a href="https://www.linkedin.com/in/felipebmaia/"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:thiago.smartins@al.infnet.edu.br"  >
+<a href="mailto:felipe.bmaia@al.infnet.edu.br"  >
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
